@@ -18,6 +18,6 @@ A data analytics project focused on analyzing airline passenger, flight, route, 
 * Top airports and routes
 * Capacity vs passenger demand
 * Flight utilization
-* 
+
 ## Tools
 PostgreSQL | Power BI | Data Analysis
